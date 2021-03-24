@@ -1,0 +1,1 @@
+I'v done like 4 versions of the main function with Fibonacci algoritm. The one that I finally deployed is the most optimized solution with Memoization than I could come up with. Another solutions (that I may also deploy, if that makes any difference) seem more effective, but they use only "while" loop or simple recursion.
